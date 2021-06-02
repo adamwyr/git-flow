@@ -1,1 +1,3 @@
-# git-flow
+# Git-FLOW
+
+Test all git flow variations.
